@@ -7,3 +7,4 @@ This is a list of things:
 * Bike
 * Something
 * Orange
+* Banana
