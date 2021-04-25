@@ -9,3 +9,4 @@ This is a list of things:
 * Orange
 * Banana
 * Tomato
+* Apple
