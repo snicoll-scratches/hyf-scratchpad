@@ -8,3 +8,4 @@ This is a list of things:
 * Something
 * Orange
 * Banana
+* Tomato
